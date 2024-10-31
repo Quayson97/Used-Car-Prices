@@ -11,3 +11,8 @@ The objective of this project is to apply data-cleaning techniques to the datase
 3. **Standardized the Data:** Standardized the 'fuel consumption' columns from mpg to L/100km
 4. **Normalized the Data:** Used min-max scaling to normalize the "length", "width" and "height" columns.
 5. **Created Bins on Certain Columns:** Binned the `horsepower` column to analyze different car prices with "high-horsepower", "medium-horsepower", and "low-horsepower".
+
+## REFERENCE
+1. IBM
+2. Coursera
+

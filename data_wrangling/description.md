@@ -13,6 +13,7 @@ The objective of this project is to apply data-cleaning techniques to the datase
 5. **Created Bins on Certain Columns:** Binned the `horsepower` column to analyze different car prices with "high-horsepower", "medium-horsepower", and "low-horsepower".
 
 ## REFERENCE
-1. IBM
-2. Coursera
+1. Cognitive Class AI
+2. IBM Data Analysis With Python 
+3. Coursera
 
